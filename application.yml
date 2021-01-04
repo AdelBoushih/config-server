@@ -3,4 +3,4 @@ eureka:
     register-with-eureka: true
     fetch-registry: true
     serviceUrl:
-      defaultZone: http://ec2-3-239-93-252.compute-1.amazonaws.com/eureka/
+      defaultZone: http://localhost/eureka/
